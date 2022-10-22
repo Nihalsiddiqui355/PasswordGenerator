@@ -21,6 +21,7 @@ Go to the project directory
   cd PasswordGenerator
 ```
 
+## [https://passwordgeneratorlco.netlify.app/](Link here) - open for preview
 
 
 ##  Features
